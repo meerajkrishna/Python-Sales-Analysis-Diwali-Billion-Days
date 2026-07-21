@@ -33,7 +33,7 @@ The dataset used in this project includes various features such as:
 - Customer Demographics (Age, Age Group, Marital Status, Location)
 - Occupation
 
-![image]<img width="896" height="874" alt="Image" src="https://github.com/user-attachments/assets/5fb72dcb-dcca-4cf8-9aea-426a69a3d0f5" />
+<img width="896" height="874" alt="Image" src="https://github.com/user-attachments/assets/5fb72dcb-dcca-4cf8-9aea-426a69a3d0f5" />
 
 
 ### **Data Cleaning**
@@ -49,7 +49,7 @@ Data cleaning steps performed include:
     - Customer segmentation based on demographics
     - Correlation analysis between different variables
  
-![image]<img width="884" height="759" alt="Image" src="https://github.com/user-attachments/assets/848c85a6-a44e-4d38-b608-dbdeac406363" />
+<img width="884" height="759" alt="Image" src="https://github.com/user-attachments/assets/848c85a6-a44e-4d38-b608-dbdeac406363" />
 
 
 ### **Libraries Used**

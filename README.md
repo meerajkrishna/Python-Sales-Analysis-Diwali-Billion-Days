@@ -3,7 +3,7 @@
 
 # **Project Overview**
 
-**A brief description of this project**
+**A brief description of this project** 
 
 Diwali is one of the major festivals in India, and it is also a significant period for retailers due to the surge in sales. This project aims to analyze sales data during the Diwali period to uncover patterns, trends, and key insights that can help in understanding consumer behavior and improving sales strategies.
 

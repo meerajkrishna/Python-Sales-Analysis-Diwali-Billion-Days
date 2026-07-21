@@ -71,23 +71,23 @@ Some of the key findings from the analysis include:
 
 * Most of the buyers are females and even the purchasing power of females is greater than that of men.
 
-![image]<img width="722" height="771" alt="Image" src="https://github.com/user-attachments/assets/c4254fd4-20f7-4680-ab35-4a32031aabb0" />
+<img width="722" height="771" alt="Image" src="https://github.com/user-attachments/assets/c4254fd4-20f7-4680-ab35-4a32031aabb0" />
 
 * Highest orders were observed in the Uttar Pradesh.
 
-![image]<img width="720" height="761" alt="Image" src="https://github.com/user-attachments/assets/6addeff0-6cd8-4eff-83c8-c3100c0d414f" />
+<img width="720" height="761" alt="Image" src="https://github.com/user-attachments/assets/6addeff0-6cd8-4eff-83c8-c3100c0d414f" />
 
 * Customers in the age group of 25-35 were the highest spenders.
   
-![image]<img width="725" height="758" alt="Image" src="https://github.com/user-attachments/assets/c3ad2e6e-8c74-4cfd-b461-84b7f8d9837b" />
+<img width="725" height="758" alt="Image" src="https://github.com/user-attachments/assets/c3ad2e6e-8c74-4cfd-b461-84b7f8d9837b" />
 
 * Most of the buyers are working in the IT, Healthcare, and Aviation sector
   
-![image]<img width="714" height="719" alt="Image" src="https://github.com/user-attachments/assets/1585c0de-cf35-4c44-9df3-6e76103214b0" />
+<img width="714" height="719" alt="Image" src="https://github.com/user-attachments/assets/1585c0de-cf35-4c44-9df3-6e76103214b0" />
 
 * Most of the sold products are from the Food, Clothing and Electronics category.
   
-![image]<img width="724" height="521" alt="Image" src="https://github.com/user-attachments/assets/7db6a127-574e-4892-b948-dfc5935c2775" />
+<img width="724" height="521" alt="Image" src="https://github.com/user-attachments/assets/7db6a127-574e-4892-b948-dfc5935c2775" />
 
 ### **Insights**
 
